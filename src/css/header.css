@@ -1,0 +1,6 @@
+header {
+    color: var(--white);
+    padding: 1rem var(--spacing-horizontal);
+    text-align: center;
+    width: 100%;
+}
